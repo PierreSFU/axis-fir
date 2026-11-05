@@ -1,0 +1,4 @@
+v 4
+file / "/home/pierre/axis-fir/tb/tb_smoke.vhd" "c4645c2ee996e582a8ddb6d4b3ce76503d90178f" "20261105030823.786":
+  entity tb_smoke at 1( 0) + 0 on 11;
+  architecture tb of tb_smoke at 8( 118) + 0 on 12;
